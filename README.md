@@ -1,0 +1,2 @@
+# fayl
+word fayli yarat
